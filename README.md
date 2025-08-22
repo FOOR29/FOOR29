@@ -1,6 +1,6 @@
 <!-- Header with image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FOOR29/FOOR29/main/header.png" alt="FOOR29 Header" />
+  <img src="1000250378.jpg" alt="FOOR29 Header" />
 </p>
 
 <h1 align="center">👋 Hello World, I'm Forlán (FOOR29)</h1>
