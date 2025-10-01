@@ -1,8 +1,4 @@
 <!-- Header with image -->
-<p align="center">
-  <img src="1000250378.jpg" alt="FOOR29 Header" />
-</p>
-
 <h1 align="center">👋 Hello World, I'm Forlán (FOOR29)</h1>
 
 ---
