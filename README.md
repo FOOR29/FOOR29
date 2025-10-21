@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Forlan  
+# ¡Hola! Soy Forlan  
 
-### Desarrollador Frontend | Diseñador Web | Aprendiz de la vida 🌱  
+### Desarrollador Junior | Diseñador Web | En constante evolución 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend;Apasionado+por+el+diseño+web;Creativo+y+disciplinado;Siempre+aprendiendo+🔥" alt="Typing SVG" />
@@ -10,12 +10,13 @@
 
 ## 🧠 Sobre Mí  
 
-> “Cada línea de código cuenta una historia, y la mía apenas comienza.”  
+> “Cada proyecto es una oportunidad para crear algo que deje huella”
 
-Soy un **desarrollador frontend** de **Barranquilla, Colombia 🇨🇴**, con una mente curiosa y ganas constantes de aprender.  
-Me apasiona construir interfaces limpias, rápidas y con un diseño que transmita intención.  
 
-Actualmente estoy aprendiendo **Next.js** para llevar mis proyectos a otro nivel, combinando diseño, funcionalidad y rendimiento.  
+Soy un desarrollador web de **Barranquilla, Colombia 🇨🇴**, con una mente curiosa y una pasión firme por aprender y mejorar cada día.
+Disfruto crear interfaces limpias, funcionales y con propósito, buscando siempre el equilibrio entre el diseño y la experiencia del usuario.
+Me gusta explorar nuevas tecnologías mientras escucho un buen tema, porque de las mejores ideas nacen entre código y la musica.
+
 
 ---
 
@@ -57,12 +58,6 @@ Actualmente estoy aprendiendo **Next.js** para llevar mis proyectos a otro nivel
 ---
 
 ## 💼 Experiencia & Skills  
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Forlan29&color=blueviolet&style=for-the-badge" />
-
-</div>
 
 ```javascript
 const forlanProfile = {
