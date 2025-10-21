@@ -67,6 +67,16 @@ const forlanProfile = {
   challenge: "Seguir mejorando cada proyecto, línea a línea.",
 };
 ```
+<div align="center">
 
-📊 Estadísticas de GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </div>
+<img src="https://github-readme-stats.vercel.app/api?username=Forlan29&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forlan29&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Forlan29&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Forlan29&theme=tokyonight&no-frame=true&margin-w=10" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Forlan29&color=blueviolet&style=for-the-badge" />
+
+</div>
+
