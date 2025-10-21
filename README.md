@@ -66,6 +66,6 @@ const forlanProfile = {
   softSkills: ["Creatividad", "Disciplina", "Comunicación", "Resolución de problemas"],
   challenge: "Seguir mejorando cada proyecto, línea a línea.",
 };
-
+``
 📊 Estadísticas de GitHub
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </div>
