@@ -62,7 +62,7 @@ Me gusta explorar nuevas tecnologías mientras escucho un buen tema, porque de l
 
 ## 🧰 Tools & Environment  
 
-<div align="center">
+<div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
