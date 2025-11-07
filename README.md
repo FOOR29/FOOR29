@@ -31,7 +31,7 @@ Me gusta explorar nuevas tecnologías mientras escucho un buen tema, porque de l
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 🧮 Lenguajes  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
