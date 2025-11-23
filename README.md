@@ -1,4 +1,4 @@
-``` bash
+``` typescript
 const forlan = {
   name: "Forlan",
   role: "Frontend Developer",
@@ -13,7 +13,7 @@ const forlan = {
     "Zustand", "Next.js", "NextAuth"
   ],
 
-  backend: ["Node.js", "Express", "MySQL", "MongoDB", "Axios"],
+  backend: ["Express", "MySQL", "MongoDB", "Axios", "Prisma"],
 
   tools: [
     "Git", "NPM", "Postman", "Vite",
