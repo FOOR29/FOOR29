@@ -1,4 +1,4 @@
-``` javascipt
+``` bash
 const forlan = {
   name: "Forlan",
   role: "Frontend Developer",
