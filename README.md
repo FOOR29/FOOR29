@@ -25,7 +25,7 @@ const forlan = {
 
   focus: ["React", "Next.js", "UI/UX", "Responsive Design"],
 
-  learning: ["Next.js avanzado", "Integración de APIs", "TypeScript avanzado"]
+  learning: ["Next.js", "Integración de APIs", "TypeScript"]
 };
 ```
 
