@@ -10,8 +10,10 @@ const forlan = {
     "HTML", "CSS", "TailwindCSS",
     "React", "React Router",
     "React Hook Form", "React Query",
-    "Zustand", "Next.js", "NextAuth"
+    "Zustand"
   ],
+
+  full-stack: ["Nextjs", "Next-auth"],
 
   backend: ["Express", "MySQL", "MongoDB", "Axios", "Prisma"],
 
