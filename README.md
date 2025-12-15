@@ -15,7 +15,7 @@ const forlan = {
 
   full-stack: ["Nextjs", "Next-auth"],
 
-  backend: ["Express", "MySQL", "MongoDB", "Axios", "Prisma"],
+  backend: ["Express", "MySQL", "MongoDB", "Axios", "Prisma", "resend"],
 
   tools: [
     "Git", "NPM", "Postman", "Vite",
