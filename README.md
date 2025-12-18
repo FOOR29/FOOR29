@@ -1,6 +1,6 @@
 ``` typescript
 const forlan = {
-  name: "Forlan",
+  name: "Forlán",
   role: "Frontend Developer",
   description: "Creo interfaces limpias, rápidas y con buena experiencia de usuario.",
   
