@@ -42,7 +42,6 @@ Me siento cómodo trabajando con React + TypeScript, gestionando estado, formula
 
 ---
 
-## Stack (rápido)
 
 <div align="center">
   
