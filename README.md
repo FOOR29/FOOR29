@@ -5,9 +5,6 @@
 Frontend Developer — interfaces limpias, rápidas y con buena experiencia de usuario. 
 
 
-
-<br/>
-
 <div align="center">
 
   <!-- Título de la sección -->
@@ -25,8 +22,6 @@ Frontend Developer — interfaces limpias, rápidas y con buena experiencia de u
     <img src="https://img.shields.io/badge/Portafolio-20232A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" />
   </a> 
 </div>
-
-
 </div>
 
 ---
