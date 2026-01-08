@@ -11,7 +11,7 @@ Frontend Developer — interfaces limpias, rápidas y con buena experiencia de u
 <div align="center">
 
   <!-- Título de la sección -->
-  <h3>📫 Contáctame</h3>
+  <h3>Contáctame</h3>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/foor29/" target="_blank">
@@ -46,7 +46,7 @@ Me siento cómodo trabajando con React + TypeScript, gestionando estado, formula
 
 <div align="center">
   
-  <h3>🛠️ Tech Stack</h3>
+  <h3>Tech Stack</h3>
 
   <table>
     <tr>
