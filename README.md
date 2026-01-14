@@ -49,6 +49,6 @@ Disfruto darle vida a las interfaces sin sacrificar claridad ni rendimiento.
 
 <div align="center">
 
-🧩 *“El buen frontend no se nota, se siente.”*
+🧩 *“No publico código muerto.”*
 
 </div>
