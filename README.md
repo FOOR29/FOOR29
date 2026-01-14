@@ -38,11 +38,20 @@ Disfruto darle vida a las interfaces sin sacrificar claridad ni rendimiento.
 
 ---
 
-## Tech Stack
+## Technologies and Tools
 
-### Lenguajes
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,mysql,mongodb,postgres,prisma,git,linux,figma,vite,vercel" />
+
+### Frontend and Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nextjs" />
+
+
+### Base de Datos & Control de Versiones
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,prisma," />
+
+### Herramientas de Desarrollo
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
+
 </div>
 
 ---
