@@ -47,7 +47,7 @@ Disfruto darle vida a las interfaces sin sacrificar claridad ni rendimiento.
 
 
 ### Base de Datos & Control de Versiones
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,prisma," />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,prisma,laravel" />
 
 ### Herramientas de Desarrollo
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
