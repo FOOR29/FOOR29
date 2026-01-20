@@ -43,11 +43,11 @@ Disfruto darle vida a las interfaces sin sacrificar claridad ni rendimiento.
 <div align="center">
 
 ### Frontend and Backend
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nextjs,laravel" />
 
 
 ### Base de Datos & Control de Versiones
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,prisma,laravel" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,prisma" />
 
 ### Herramientas de Desarrollo
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
