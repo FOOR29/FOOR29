@@ -58,6 +58,6 @@ Disfruto darle vida a las interfaces sin sacrificar claridad ni rendimiento.
 
 <div align="center">
 
-🧩 *“No publico código muerto.”*
+*“No publico código muerto”*
 
 </div>
