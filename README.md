@@ -59,7 +59,7 @@ Disfruto darle vida a las interfaces sin sacrificar claridad ni rendimiento.
 
 ## GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloBytes&theme=tokyonight&hide_border=true&background=0D1117" alt="Estadísticas de racha" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FOOR29&theme=tokyonight&hide_border=true&background=0D1117" alt="Estadísticas de racha" />
 
 </div>
 
